@@ -1,2 +1,12 @@
 # resume-portfolio
-A portfolio of all my code samples
+This portfolio will contain all my code samples
+
+## Terraform 
+- [x] Introduction 
+- [x] Statefiles 
+- [ ] Modules 
+
+## Ansible
+- [x] Introduction 
+- [x] Modules 
+- [x] SSH 
